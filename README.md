@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### 📈 **GitHub Analytics**
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <!--
 **serral-oss/serral-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
